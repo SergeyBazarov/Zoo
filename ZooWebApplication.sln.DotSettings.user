@@ -1,0 +1,41 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=006e2573_002D2f71_002D4bcb_002Da067_002Dffa2e6cce122/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="UnitTest1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;Or&gt;&#xD;
+      &lt;Or&gt;&#xD;
+        &lt;Or&gt;&#xD;
+          &lt;Or&gt;&#xD;
+            &lt;Or&gt;&#xD;
+              &lt;TestAncestor&gt;&#xD;
+                &lt;TestId&gt;xUnit::5940685E-4279-49FE-BEF1-13184CC6C65E::.NETCoreApp,Version=v3.1::DomainTest.LoadStocksInteractorTest&lt;/TestId&gt;&#xD;
+              &lt;/TestAncestor&gt;&#xD;
+              &lt;TestAncestor&gt;&#xD;
+                &lt;TestId&gt;xUnit::5940685E-4279-49FE-BEF1-13184CC6C65E::.NETCoreApp,Version=v3.1::DomainTest.AddProductsInStockInteractor.IdEqualsResult&lt;/TestId&gt;&#xD;
+              &lt;/TestAncestor&gt;&#xD;
+            &lt;/Or&gt;&#xD;
+            &lt;TestAncestor&gt;&#xD;
+              &lt;TestId&gt;xUnit::5940685E-4279-49FE-BEF1-13184CC6C65E::.NETCoreApp,Version=v3.1::DomainTest.AddProductsInStockInteractor&lt;/TestId&gt;&#xD;
+            &lt;/TestAncestor&gt;&#xD;
+          &lt;/Or&gt;&#xD;
+          &lt;TestAncestor&gt;&#xD;
+            &lt;TestId&gt;xUnit::5940685E-4279-49FE-BEF1-13184CC6C65E::.NETCoreApp,Version=v3.1::DomainTest.AddStockInteractorTest&lt;/TestId&gt;&#xD;
+          &lt;/TestAncestor&gt;&#xD;
+        &lt;/Or&gt;&#xD;
+        &lt;TestAncestor&gt;&#xD;
+          &lt;TestId&gt;xUnit::5940685E-4279-49FE-BEF1-13184CC6C65E::.NETCoreApp,Version=v3.1::DomainTest.AddWorkerInStockInteractorTest&lt;/TestId&gt;&#xD;
+        &lt;/TestAncestor&gt;&#xD;
+      &lt;/Or&gt;&#xD;
+      &lt;TestAncestor&gt;&#xD;
+        &lt;TestId&gt;xUnit::5940685E-4279-49FE-BEF1-13184CC6C65E::.NETCoreApp,Version=v3.1::DomainTest.LoadProductsInStockInteractorTest&lt;/TestId&gt;&#xD;
+      &lt;/TestAncestor&gt;&#xD;
+    &lt;/Or&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::5940685E-4279-49FE-BEF1-13184CC6C65E::.NETCoreApp,Version=v3.1::DomainTest.LoadWorkersInStockInteractorTest&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=baafc15f_002Dbd97_002D4096_002Daba7_002Dbad22a82c441/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="IdEqualsResult" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::5940685E-4279-49FE-BEF1-13184CC6C65E::.NETCoreApp,Version=v3.1::DomainTest.AddProductsInStockInteractor.IdEqualsResult&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

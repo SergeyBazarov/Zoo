@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooWebApplication", "ZooWebApplication\ZooWebApplication.csproj", "{AED95989-B9BE-4EDB-BA43-90CD2DF88BF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{89C03820-1905-4076-8AC0-6CF56213411F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{042A918A-743B-44F1-9A53-E138725781A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainTest", "DomainTest\DomainTest.csproj", "{5940685E-4279-49FE-BEF1-13184CC6C65E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AED95989-B9BE-4EDB-BA43-90CD2DF88BF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AED95989-B9BE-4EDB-BA43-90CD2DF88BF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AED95989-B9BE-4EDB-BA43-90CD2DF88BF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AED95989-B9BE-4EDB-BA43-90CD2DF88BF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89C03820-1905-4076-8AC0-6CF56213411F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89C03820-1905-4076-8AC0-6CF56213411F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89C03820-1905-4076-8AC0-6CF56213411F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89C03820-1905-4076-8AC0-6CF56213411F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{042A918A-743B-44F1-9A53-E138725781A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042A918A-743B-44F1-9A53-E138725781A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042A918A-743B-44F1-9A53-E138725781A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042A918A-743B-44F1-9A53-E138725781A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5940685E-4279-49FE-BEF1-13184CC6C65E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5940685E-4279-49FE-BEF1-13184CC6C65E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5940685E-4279-49FE-BEF1-13184CC6C65E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5940685E-4279-49FE-BEF1-13184CC6C65E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
